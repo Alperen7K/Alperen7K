@@ -34,7 +34,7 @@ const alperen = {
   devOps: ["Docker", "Nginx", "Git"],
  },
  currentWorks: [
-"ASP.NET Core Web API projeleri oluşturma",
+  "ASP.NET Core Web API projeleri oluşturma",
   "Three.js ile modern etkileşimli web deneyimleri",
   "Entity Framework Core ile veritabanı entegrasyonları"
  ],
