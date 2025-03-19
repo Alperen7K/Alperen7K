@@ -34,9 +34,8 @@ const alperen = {
   devOps: ["Docker", "Nginx", "Git"],
  },
  currentWorks: [
+"ASP.NET Core Web API projeleri oluşturma",
   "Three.js ile modern etkileşimli web deneyimleri",
-  ".NET Core ile mikroservis mimarileri geliştirme",
-  "ASP.NET Core Web API projeleri oluşturma",
   "Entity Framework Core ile veritabanı entegrasyonları"
  ],
  motto: "Sürekli öğren, sürekli geliştir!",
