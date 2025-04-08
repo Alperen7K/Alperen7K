@@ -19,13 +19,13 @@
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-Merhaba! Ben Mehmet Alperen Yedik, modern web teknolojileri konusunda uzmanlaşmış bir **Full-Stack Web Developer**'ım. Kullanıcı deneyimini merkeze alan, performans odaklı ve ölçeklenebilir web uygulamaları geliştirmeye tutkuluyum.
+Hello! I'm Mehmet Alperen Yedik, a **Full-Stack Web Developer** specialized in modern web technologies. I'm passionate about developing user-centric, performance-focused, and scalable web applications.
 
 ```javascript
 const alperen = {
- title: "Full-Stack Web Geliştirme",
+ title: "Full-Stack Web Development",
  languages: ["JavaScript", "TypeScript", "C#", "HTML", "CSS"],
  techs: {
   frontend: ["React.js", "Next.js", "Three.js"],
@@ -34,78 +34,78 @@ const alperen = {
   devOps: ["Docker", "Nginx", "Git"],
  },
  currentWorks: [
-  "ASP.NET Core Web API projeleri oluşturma",
-  "Three.js ile modern etkileşimli web deneyimleri",
-  "Entity Framework Core ile veritabanı entegrasyonları"
+  "Creating ASP.NET Core Web API projects",
+  "Modern interactive web experiences with Three.js",
+  "Database integrations with Entity Framework Core"
  ],
- motto: "Sürekli öğren, sürekli geliştir!",
+ motto: "Keep learning, keep improving!",
 };
 ```
 
-## 🎯 Odak Noktalarım
+## 🎯 Focus Areas
 
-- **Modern Web Çözümleri**: React, Next.js, Node.js ekosistemlerinde yenilikçi uygulamalar
-- **.NET Ekosistemi**: ASP.NET Core, Entity Framework Core ile kurumsal ölçekte uygulamalar
-- **Kullanıcı Deneyimi**: Sezgisel ve etkileyici arayüzler
-- **Performans Optimizasyonu**: Hızlı yüklenen, verimli çalışan uygulamalar
-- **Dijital Dönüşüm**: Organizasyonların dijitalleşme süreçlerine katkı
+- **Modern Web Solutions**: Innovative applications in React, Next.js, Node.js ecosystems
+- **.NET Ecosystem**: Enterprise-scale applications with ASP.NET Core, Entity Framework Core
+- **User Experience**: Intuitive and impressive interfaces
+- **Performance Optimization**: Fast-loading, efficient applications
+- **Digital Transformation**: Contributing to organizations' digitalization processes
 
-## 💼 Profesyonel Deneyim
+## 💼 Professional Experience
 
-### 🏢 City Technology Center | Full-Stack Web Developer
+### 🏢 Şehir Teknolojileri Merkezi | Full-Stack Web Developer
 
-> _Eylül 2023 - Günümüz_
+> _September 2023 - Present_
 
-Konya Büyükşehir Belediyesi bünyesinde, şehrin dijital dönüşümüne katkı sağlayan kritik projelerde görev alıyorum:
+Working on critical projects contributing to the city's digital transformation within Konya Metropolitan Municipality:
 
-- ASP.NET Core ile güvenli, yüksek performanslı web uygulamaları geliştirme
-- Entity Framework Core kullanarak veritabanı işlemlerini optimize etme
-- .NET Identity ile kimlik doğrulama ve yetkilendirme sistemleri tasarlama 
-- Vatandaş odaklı dijital hizmetlerin geliştirilmesi
-- Modern web teknolojileri ile belediye hizmetlerinin optimize edilmesi
-- Şehir kaynaklarının daha verimli kullanılmasını sağlayan yazılım çözümleri
+- Developing secure, high-performance web applications with ASP.NET Core
+- Optimizing database operations using Entity Framework Core
+- Designing authentication and authorization systems with .NET Identity
+- Developing citizen-focused digital services
+- Optimizing municipal services with modern web technologies
+- Software solutions for more efficient use of city resources
 
 ### 🏢 aivisiontech | Web Developer
 
-> _Temmuz 2024 - Günümüz (Part Time) & Kasım 2023 - Temmuz 2024 (Staj)_
+> _July 2024 - Present (Part Time) & November 2023 - July 2024 (Internship)_
 
-- Three.js kullanarak dinamik ve interaktif web deneyimleri tasarlama
-- Modern frontend teknolojileri ile yenilikçi arayüzler geliştirme
-- Performans odaklı web uygulamaları oluşturma
+- Designing dynamic and interactive web experiences using Three.js
+- Developing innovative interfaces with modern frontend technologies
+- Creating performance-focused web applications
 
 ### 🏢 Kapsul Technology Platform | Web Developer / Frontend Developer
 
-> _Temmuz 2023 - Ağustos 2024 & Şubat 2023 - Temmuz 2023 (Gönüllü)_
+> _July 2023 - August 2024 & February 2023 - July 2023 (Volunteer)_
 
-- React.js ve Next.js ile platform geliştirme
-- Lise öğrencilerine web geliştirme eğitimleri
-- Kullanıcı deneyimini iyileştiren arayüz yenilikleri
+- Platform development with React.js and Next.js
+- Web development training for high school students
+- Interface innovations improving user experience
 
-## 🎓 Eğitim
+## 🎓 Education
 
-### Selçuk Üniversitesi | Mekatronik Mühendisliği
+### Selçuk University | Mechatronics Engineering
 
 > _2022 - 2026_
 
-Multidisipliner bir eğitim alarak, yazılım becerilerimi mekanik, elektronik ve kontrol sistemleri bilgisiyle zenginleştiriyorum.
+Enriching my software skills with mechanical, electronic, and control systems knowledge through multidisciplinary education.
 
-## 🛠️ Teknik Beceriler
+## 🛠️ Technical Skills
 
-| **Frontend**      | **Backend**       | **Veritabanları**  | **DevOps & Araçlar** |
-| ----------------- | ----------------- | ------------------ | -------------------- |
-| React.js          | Node.js           | PostgreSQL         | Docker               |
-| Next.js           | .NET Core         | MongoDB            | Git & GitHub         |
-| TypeScript        | Express.js        | SQL Server         | Nginx                |
-| JavaScript        | Web API           | MySQL              | CI/CD Pipeline       |
-| HTML5/CSS3        | Entity Framework  | Redis              | AWS/Azure            |
-| Three.js          | RESTful API       | ORM Tools          | Linux                |
-| SCSS/SASS         | C#                | GraphQL            | Vercel               |
-| Tailwind CSS      | SignalR           | Prisma             | Netlify              |
-| Styled Components | Express.js        | Mongoose           | Jenkins              |
-| Redux/Zustand     |                   |                    | Firebase             |
-| Framer Motion     |                   |                    | Webpack/Vite         |
+| **Frontend**      | **Backend**       | **Databases**     | **DevOps & Tools** |
+| ----------------- | ----------------- | ----------------- | ------------------ |
+| React.js          | Node.js           | PostgreSQL        | Docker             |
+| Next.js           | .NET Core         | MongoDB           | Git & GitHub       |
+| TypeScript        | Express.js        | SQL Server        | Nginx              |
+| JavaScript        | Web API           | MySQL             | CI/CD Pipeline     |
+| HTML5/CSS3        | Entity Framework  | Redis             | AWS/Azure          |
+| Three.js          | RESTful API       | ORM Tools         | Linux              |
+| SCSS/SASS         | C#                | GraphQL           | Vercel             |
+| Tailwind CSS      | SignalR           | Prisma            | Netlify            |
+| Styled Components | Express.js        | Mongoose          | Jenkins            |
+| Redux/Zustand     |                   |                   | Firebase           |
+| Framer Motion     |                   |                   | Webpack/Vite       |
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alperen7k&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -115,22 +115,22 @@ Multidisipliner bir eğitim alarak, yazılım becerilerimi mekanik, elektronik v
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alperen7k&theme=dark" alt="GitHub Streak" />
 </div>
 
-## 📞 İletişim
+## 📞 Contact
 
-Yeni projelerde iş birliği yapmak veya mevcut becerilerim hakkında daha fazla bilgi almak için benimle iletişime geçmekten çekinmeyin:
+Don't hesitate to reach out to me for collaboration on new projects or to learn more about my current skills:
 
-- **E-posta:** mehmetalperenyedik@gmail.com
-- **Telefon:** +90 546 434 60 08
+- **Email:** mehmetalperenyedik@gmail.com
+- **Phone:** +90 546 434 60 08
 - **GitHub:** [github.com/alperen7k](https://github.com/alperen7k)
 - **LinkedIn:** [linkedin.com/in/mehmetalperenyedik](https://linkedin.com/in/mehmetalperenyedik)
 - **Portfolio:** [7ks.com.tr](https://7ks.com.tr)
 
-## 📄 Lisans
+## 📄 License
 
-Bu repository MIT Lisansı kapsamında lisanslanmıştır. Daha fazla detay için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
+This repository is licensed under the MIT License. For more details, please check the [LICENSE](LICENSE) file.
 
 ---
 
 <div align="center">
-  <p>💡 "Kod yazarak geleceği şekillendiriyoruz."</p>
+  <p>💡 "We shape the future by writing code."</p>
 </div>
